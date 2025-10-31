@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#canvas {
+  display: flex;
+  height: 50%;
+  width: 100%;
+  aspect-ratio: 16/9;
+}

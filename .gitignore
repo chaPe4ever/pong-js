@@ -1,0 +1,18 @@
+
+*.mjs
+*.cjs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Optional:
+.env
+dist/
+build/
+# VSCode
+.vscode/
+# SASS cache
+.sass-cache/
+# OS
+.DS_Store
+Thumbs.db
